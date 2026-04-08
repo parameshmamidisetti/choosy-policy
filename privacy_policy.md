@@ -1,6 +1,6 @@
 # Privacy Policy for Choosy
 
-**Effective Date:** [Add Date]
+**Effective Date:** 04-04-2026
 
 Choosy ("we", "our", or "us") is a polling and voting application operated by **Paramesh Mamidisetti**, based in India. This Privacy Policy explains how we collect, use, and protect your information when you use the Choosy app.
 
