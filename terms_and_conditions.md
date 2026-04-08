@@ -108,7 +108,7 @@ These Terms are governed by the laws of India.
 If you have any questions about these Terms, contact:
 
 **Paramesh Mamidisetti**
-📧 [parameshmamidisetti143@gmail.com](mailto:parameshmamidisetti143@gmail.com)
+📧 choosyapp@outlook.com
 
 ---
 
