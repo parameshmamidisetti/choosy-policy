@@ -1,0 +1,46 @@
+# Account Deletion – Choosy
+
+If you want to delete your Choosy account and associated data, you can do so in the following ways:
+
+## Option 1: From the App
+
+* Open the Choosy app
+* Go to Profile -> Settings
+* Tap on “Delete Account”
+* Confirm deletion
+
+## Option 2: Request via Email
+
+You can request account deletion by contacting us:
+
+📧 choosyapp@outlook.com
+
+Please include:
+
+* Your registered email ID
+* Username (if available)
+
+We will process your request within 3–5 working days.
+
+---
+
+## Data Deletion Policy
+
+* Your account will be **deactivated immediately** after deletion request
+
+* Your personal data will be **permanently deleted within 90 days**
+
+* During this period, data may be retained for:
+
+  * Legal compliance
+  * Fraud prevention
+  * System integrity
+
+* After 90 days, your data will be fully removed from our systems
+
+* Some content (such as polls or comments) may remain in anonymized form and will not be linked to your identity
+
+---
+
+If you have any questions, contact us at:
+📧 choosyapp@outlook.com
