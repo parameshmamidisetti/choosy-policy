@@ -114,7 +114,7 @@ You have the right to:
 * Stop using the app at any time
 
 For any requests, contact us at:
-📧 [parameshmamidisetti143@gmail.com](mailto:parameshmamidisetti143@gmail.com)
+📧 choosyapp@outlook.com
 
 ---
 
@@ -142,7 +142,7 @@ We may update this Privacy Policy from time to time. Updates will be reflected b
 If you have any questions or concerns about this Privacy Policy, contact:
 
 **Paramesh Mamidisetti**
-📧 [parameshmamidisetti143@gmail.com](mailto:parameshmamidisetti143@gmail.com)
+📧 choosyapp@outlook.com
 
 ---
 
